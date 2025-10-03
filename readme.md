@@ -1,4 +1,3 @@
-```markdown
 # 🏋️ BMI Calculator
 
 A modern, sleek BMI (Body Mass Index) calculator built with Python and ttkBootstrap, featuring real-time calculations and a beautiful dark theme interface.
@@ -95,5 +94,3 @@ The application uses a modular class structure:
 ---
 
 Built with attention to detail and user experience - Making health calculations accessible and visually appealing! 🎨✨
-
-```
